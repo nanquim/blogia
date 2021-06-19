@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/blogia",
   siteMetadata: {
     title: `BlogIA`,
     author: {
